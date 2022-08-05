@@ -1,4 +1,4 @@
-# mongodb-personal-playground
+# mongodb-vocabularies
 A Python app to connect, access and manipulate a MongoDB database containing a collection of vocabularies
 
 
